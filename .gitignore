@@ -1,0 +1,5 @@
+myvenv/
+.vscode/
+__pycache__/
+dataset_hold_1.csv
+hold_classifier_1.pkl
